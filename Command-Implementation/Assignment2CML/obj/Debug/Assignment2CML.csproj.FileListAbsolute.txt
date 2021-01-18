@@ -1,0 +1,14 @@
+C:\Users\Huy Nguyen\source\repos\Assignment2CML\Assignment2CML\bin\Debug\Assignment2CML.exe.config
+C:\Users\Huy Nguyen\source\repos\Assignment2CML\Assignment2CML\bin\Debug\Assignment2CML.exe
+C:\Users\Huy Nguyen\source\repos\Assignment2CML\Assignment2CML\bin\Debug\Assignment2CML.pdb
+C:\Users\Huy Nguyen\source\repos\Assignment2CML\Assignment2CML\obj\Debug\Assignment2CML.csprojAssemblyReference.cache
+C:\Users\Huy Nguyen\source\repos\Assignment2CML\Assignment2CML\obj\Debug\Assignment2CML.csproj.CoreCompileInputs.cache
+C:\Users\Huy Nguyen\source\repos\Assignment2CML\Assignment2CML\obj\Debug\Assignment2CML.exe
+C:\Users\Huy Nguyen\source\repos\Assignment2CML\Assignment2CML\obj\Debug\Assignment2CML.pdb
+C:\Users\Huy\Desktop\ASSB\102098890\Command-Implementation\Assignment2CML\bin\Debug\Assignment2CML.exe.config
+C:\Users\Huy\Desktop\ASSB\102098890\Command-Implementation\Assignment2CML\bin\Debug\Assignment2CML.exe
+C:\Users\Huy\Desktop\ASSB\102098890\Command-Implementation\Assignment2CML\bin\Debug\Assignment2CML.pdb
+C:\Users\Huy\Desktop\ASSB\102098890\Command-Implementation\Assignment2CML\obj\Debug\Assignment2CML.csprojAssemblyReference.cache
+C:\Users\Huy\Desktop\ASSB\102098890\Command-Implementation\Assignment2CML\obj\Debug\Assignment2CML.csproj.CoreCompileInputs.cache
+C:\Users\Huy\Desktop\ASSB\102098890\Command-Implementation\Assignment2CML\obj\Debug\Assignment2CML.exe
+C:\Users\Huy\Desktop\ASSB\102098890\Command-Implementation\Assignment2CML\obj\Debug\Assignment2CML.pdb
